@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0764295d-02d6-4d9e-af9b-3dc9e980c868" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
@@ -85,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577190090212</updated>
       <workItem from="1577190110261" duration="11909000" />
-      <workItem from="1577273563520" duration="4836000" />
+      <workItem from="1577273563520" duration="5081000" />
     </task>
     <task id="LOCAL-00001" summary="added add_comment_to_post method">
       <created>1577287869809</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577288486836</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add comment_remove method">
+      <created>1577289074891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577289074891</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added add_comment_to_post method" />
     <MESSAGE value="added comment approve method" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comment approve method" />
+    <MESSAGE value="add comment_remove method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comment_remove method" />
   </component>
 </project>
